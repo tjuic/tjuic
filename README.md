@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[Solar Cooker or Electrical Design For A Stored Thermal Energy](EXPO.ECE.11.pdf)
+[Solar Cooker or Electrical Design For A Stored Thermal Energy](https://engineeringexpo.uic.edu/news-stories/mie-60-high-power-electric-motorcycle-design-and-assembling-scheme-53/#project-description)
+
+[EXPO Poster](EXPO.ECE.11.pdf)
 <!--
 **tjuic/tjuic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
