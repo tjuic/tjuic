@@ -1,4 +1,4 @@
-####### Hi there 👋
+Hi there 👋
 
 [Solar Cooker or Electrical Design For A Stored Thermal Energy](https://engineeringexpo.uic.edu/news-stories/mie-60-high-power-electric-motorcycle-design-and-assembling-scheme-53/#project-description)
 
