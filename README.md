@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Solar Cooker or Electrical Design For A Stored Thermal Energy](EXPO.ECE.11.pdf)
 <!--
 **tjuic/tjuic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
