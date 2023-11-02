@@ -1,7 +1,8 @@
 
 ### Hi there 👋
-#Thammakorn Juntarasuwan
-#Computer Engineering at the University of Illinois Chicago
+Thammakorn Juntarasuwan
+
+Computer Engineering at the University of Illinois Chicago
 
 - 📫 How to reach me: [tjuntarasuwan@gmail.com](tjuntarasuwan@gmail.com)
   
